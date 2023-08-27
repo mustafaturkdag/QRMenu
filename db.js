@@ -1,0 +1,106 @@
+export const menu = [
+  {
+    id: 1,
+    title: "Strained Pancakes",
+    category: "breakfast",
+    price: 15.99,
+    img: "./images/item-1.jpeg",
+    desc: "The flavor of milk in buttermilk pancakes! Add flavor to your day with our buttermilk pancakes with a soft texture.",
+  },
+  {
+    id: 2,
+    title: "Diner double hamburger",
+    category: "lunch",
+    price: 13.99,
+    img: "./images/item-2.jpeg",
+    desc: "Our diner-style double hamburger is the perfect choice for your lunch with its delicious flavor and satisfying structure!",
+  },
+  {
+    id: 3,
+    title: "Godzilla milkshake",
+    category: "shakes",
+    price: 6.99,
+    img: "./images/item-3.jpeg",
+    desc: "A legendary flavor is waiting for you! Indulge yourself with our Godzilla Milkshake and take a sweet break.",
+  },
+  {
+    id: 4,
+    title: "Village flavor",
+    category: "breakfast",
+    price: 20.99,
+    img: "./images/item-4.jpeg",
+    desc: "The indispensable flavor of village breakfasts is now here! Prepared with all natural ingredients, the Village Taste breakfast invites you to an exquisite feast of flavor.",
+  },
+  {
+    id: 5,
+    title: "Egg attack",
+    category: "lunch",
+    price: 22.99,
+    img: "./images/item-5.jpeg",
+    desc: "The indispensable flavor of village breakfasts is now here! Prepared with all natural ingredients, the Village Taste breakfast invites you to an exquisite feast of flavor.",
+  },
+
+  {
+    id: 6,
+    title: "Oreo Dream",
+    category: "shakes",
+    price: 18.99,
+    img: "./images/item-6.jpeg",
+    desc: "A great flavor for Oreo lovers! Oreo Dream takes you to a sweet world. You can't get enough of its flavor!",
+  },
+  {
+    id: 7,
+    title: "Bacon Flood",
+    category: "breakfast",
+    price: 8.99,
+    img: "./images/item-7.jpeg",
+    desc: "For those who love bacon, a must for breakfast! Prepared with plenty of freshly fried bacon and other flavors, Bacon Flood will give you a great start to your day.",
+  },
+  {
+    id: 8,
+    title: "American Classic",
+    category: "lunch",
+    price: 12.99,
+    img: "./images/item-8.jpeg",
+    desc: "Prepared with the classic flavors of American cuisine, this lunch offers an unforgettable experience. Moreover, it is also preferred for its affordable price!",
+  },
+  {
+    id: 9,
+    title: "Quarantine Buddy",
+    category: "shakes",
+    price: 16.99,
+    img: "./images/item-9.jpeg",
+    desc: "A delicious milkshake that won't leave you alone when you're bored during quarantine days! Make a sweet getaway with Quarantine Buddy.",
+  },
+  {
+    id: 10,
+    title: "Bison Steak",
+    category: "lunch",
+    price: 22.99,
+    img: "./images/item-10.jpeg",
+    desc: "The unique flavor of bison meat is combined with special spices and sauces. Bison Steak is the perfect choice for your dinner!",
+  },
+];
+
+export const buttonsData = [
+  {
+    id: 1,
+    text: "All",
+    value: "all",
+  },
+  {
+    id: 2,
+    text: "Breakfast",
+    value: "breakfast",
+  },
+  {
+    id: 3,
+    text: "Lunch",
+    value: "lunch",
+  },
+  {
+    id: 4,
+    text: "Shakes",
+    value: "shakes",
+  },
+];
